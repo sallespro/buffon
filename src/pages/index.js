@@ -1,6 +1,7 @@
 import React from "react"
 import Layout from "../components/Layout"
 import { Link } from "gatsby"
+import renderImage from "../images/render.jpg"
 //import heroImage from "../images/hero-image.svg"
 
 export default () => {
@@ -9,6 +10,7 @@ export default () => {
       <div class="w-full h-screen bg-center bg-no-repeat bg-cover">
         <div class="w-full h-screen bg-opacity-50 bg-black flex justify-center items-center">
           <div class="mx-4 text-center text-white">
+          <img className="p-4" src={renderImage} alt="Optimate" />
             {/* <h1 class="font-bold text-6xl mb-4">Sistemas de Comunicação Satelital</h1> */}
             <h2 class="font-bold text-3xl mb-12">
               Sistemas de Comunicação Satelital
