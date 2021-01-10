@@ -15,12 +15,11 @@ module.exports = {
     {
       resolve: "gatsby-plugin-manifest",
       options: {
-        name: "Gatsby Starter Tailwind CSS",
+        name: "Optimate",
         short_name: "Gatsby Starter",
         start_url: "/",
         background_color: theme.colors.white,
-        theme_color: theme.colors.blue[500],
-        icon: "static/icon.svg"
+        theme_color: theme.colors.blue[500]
       }
     },
     {
