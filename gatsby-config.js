@@ -4,6 +4,7 @@ const tailwindConfig = require("./tailwind.config.js")
 const { theme } = resolveConfig(tailwindConfig)
 
 module.exports = {
+  pathPrefix: "/buffon",
   siteMetadata: {
     title: "Gatsby Starter Tailwind CSS",
     author: "Rafael Rocco Salles",
