@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-tailwind",
+  "name": "buffon",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:melanienolan/gatsby-starter-tailwind-css.git",
-  "author": "Melanie Nolan <melly.nolan@gmail.com>",
+  "repository": "git@github.com:sallespro/buffon.git",
+  "author": "Rafael Rocco Salles <sallespro@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -29,5 +29,5 @@
     "tailwindcss": "^1.4.1"
   },
   "keywords": [],
-  "description": ""
+  "description": "gatsby-starter-tailwind-buffon"
 }
