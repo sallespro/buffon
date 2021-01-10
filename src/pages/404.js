@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout"
-import notFoundImage from "../images/not-found-image.svg"
+import notFoundImage from "../images/render-1.jpg"
 
 export default () => {
   return (
