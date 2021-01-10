@@ -19,7 +19,8 @@ module.exports = {
         short_name: "Gatsby Starter",
         start_url: "/",
         background_color: theme.colors.white,
-        theme_color: theme.colors.blue[500]
+        theme_color: theme.colors.blue[500],
+        icon: "static/icon.svg",
       }
     },
     {
