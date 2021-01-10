@@ -1,6 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout"
-import heroImage from "../images/hero-image.svg"
+//import heroImage from "../images/hero-image.svg"
 
 export default () => {
   return (
@@ -9,17 +9,28 @@ export default () => {
         <div className="sm:flex sm:flex-row-reverse sm:items-center">
           <div className="sm:px-2">
             <h1 className="px-4 pt-5 text-2xl text-left text-teal-500 font-bold sm:text-3xl">
-              Gatsby Starter 
+              Sistema de comunicação satelital 
             </h1>
             <p className="px-4 mt-8 text-lg text-gray-700 sm:mt-8">
-              Start your Gatsby and Tailwind CSS project easily with this Gatsby
-              Starter
+            A revolução na flexibilidade de antenas VSAT e banda KU
+            </p>
+            <p className="px-4 mt-8 text-lg text-gray-700 sm:mt-8">
+Instalação e apontamento em no máximo 10 minutos
+</p>
+<p className="px-4 mt-8 text-lg text-gray-700 sm:mt-8">
+Equipamento robusto e prático, transportável em uma única maleta
+</p>
+<p className="px-4 mt-8 text-lg text-gray-700 sm:mt-8">
+Apontamento guiado, substitui tabelas, GPS e bússola
+</p>
+<p className="px-4 mt-8 text-lg text-gray-700 sm:mt-8">
+Antena de alto desempenho, com alinhamento e rigidez superior
             </p>
           </div>
           <img
             className="w-full max-w-lg mt-16 mx-auto sm:w-1/2"
             //src={heroImage}
-            src="https://drive.innovationbydesign.com.br/www/static/processed/containers.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=inbydesign%2F20210110%2F%2Fs3%2Faws4_request&X-Amz-Date=20210110T025613Z&X-Amz-Expires=432000&X-Amz-SignedHeaders=host&X-Amz-Signature=674a368e935ec055acbec38b6d8189f700876ab8811290e363673c1d670f222d"
+            src="http://www.optimate.com.br/images/fachada_lateralg.jpg"
             alt="Gatsby and Tailwind CSS together"
           />
         </div>
