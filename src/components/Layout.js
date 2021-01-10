@@ -6,7 +6,7 @@ const Layout = ({ children }) => {
     <>
       <SEO />
       <div className="flex flex-col min-h-screen bg-gray-200">
-        <header className="p-4 bg-teal-500 text-white font-semibold">
+        <header className="p-4 bg-blue-500 text-white font-semibold">
           <h1 className="max-w-4xl mx-auto">web app static site</h1>
         </header>
         {children}
