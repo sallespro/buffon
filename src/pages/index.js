@@ -1,5 +1,6 @@
 import React from "react"
 import Layout from "../components/Layout"
+import { Link } from "gatsby"
 //import heroImage from "../images/hero-image.svg"
 
 export default () => {
@@ -13,18 +14,18 @@ export default () => {
               Sistemas de Comunicação Satelital
             </h2>
             <div>
-              <a
-                href="/produto"
+              <Link
                 class="bg-blue-500 rounded-md font-bold text-white text-center px-4 py-3 transition duration-300 ease-in-out hover:bg-blue-600 mr-2"
+                to="/produto"
               >
                 Saiba mais
-              </a>
-              <a
-                href="/contato"
+              </Link>
+              <Link
                 class="bg-red-700 rounded-md font-bold text-white text-center px-4 py-3 transition duration-300 ease-in-out hover:bg-red-600 ml-2"
+                to="/contato"
               >
-                entre em contato
-              </a>
+                Entre em contato
+              </Link>
             </div>
           </div>
         </div>
