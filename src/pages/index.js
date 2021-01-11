@@ -16,13 +16,13 @@ export default () => {
           </h2>
           <div>
             <Link
-              class="bg-blue-500 rounded-md font-bold text-white text-center px-4 py-3 transition duration-300 ease-in-out hover:bg-blue-600 mr-2"
+              class="bg-blue-500 rounded-md  text-white text-center px-4 py-3 transition duration-300 ease-in-out hover:bg-blue-600 mr-2"
               to="/produto"
             >
               Saiba mais
             </Link>
             <Link
-              class="bg-red-700 rounded-md font-bold text-white text-center px-4 py-3 transition duration-300 ease-in-out hover:bg-red-600 ml-2"
+              class="bg-red-700 rounded-md  text-white text-center px-4 py-3 transition duration-300 ease-in-out hover:bg-red-600 ml-2"
               to="/contato"
             >
               Entre em contato
