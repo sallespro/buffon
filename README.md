@@ -12,7 +12,7 @@ The [github.io](https://sallespro.github.io/buffon/) site
 
 ### The Sandbox Server
 
-[Sandbox Server](https://ygc9f.sse.codesandbox.io)
+[Sandbox Server](https://codesandbox.io/s/hopeful-franklin-2326x?file=/README.md)
 
 ### The Development Environment in the cloud
 
