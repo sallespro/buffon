@@ -1,16 +1,22 @@
-# Gatsby Starter Tailwind CSS
+# Optimate
 
-## starter
+## source code
 
-How to [start](https://codesandbox.io/s/hopeful-franklin-2326x)
+[source code](https://github.com/sallespro/buffon)
 
-## Demo site
+## github.io hosted
 
-The [demo](https://ygc9f.sse.codesandbox.io) site
+The [github.io](https://sallespro.github.io/buffon/) site
 
 ## Development Sandbox
 
-The Development Environment in the cloud [sandbox](https://codesandbox.io/s/github/sallespro/buffon)
+### The Sandbox Server
+
+[Sandbox Server](https://ygc9f.sse.codesandbox.io)
+
+### The Development Environment in the cloud
+
+[sandbox template](https://codesandbox.io/s/github/sallespro/buffon)
 
 ## Layout - Tailwind CSS
 
