@@ -2,7 +2,12 @@ module.exports = {
   purge: ["./src/**/*.js"],
   target: "relaxed",
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: theme => ({
+        'render': "url('../images/render.jpg')",
+ 
+       })
+    },
   },
   variants: {},
   plugins: [],
